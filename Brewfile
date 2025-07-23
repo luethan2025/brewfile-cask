@@ -1,7 +1,9 @@
 # specify a directory to install: https://github.com/Homebrew/homebrew-bundle
 cask_args appdir: '/Applications'
 
-# casks
+# ------------------------------------------------------------------------------
+# CASKS
+# ------------------------------------------------------------------------------
 cask 'visual-studio-code'
 cask 'git-credential-manager'
 cask 'google-chrome'
